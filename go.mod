@@ -7,10 +7,10 @@ require (
 	github.com/cosmos/ibc-go/v2 v2.0.0
 	github.com/gorilla/mux v1.8.0
 	github.com/rakyll/statik v0.1.7
-	github.com/regen-network/regen-ledger/types v0.0.0-00010101000000-000000000000
-	github.com/regen-network/regen-ledger/x/data v0.0.0-20210602121340-fa967f821a6e
-	github.com/regen-network/regen-ledger/x/ecocredit v0.0.0-20210602121340-fa967f821a6e
-	github.com/regen-network/regen-ledger/x/group v0.0.0-00010101000000-000000000000
+	github.com/regen-network/regen-ledger/types v1.0.0
+	github.com/regen-network/regen-ledger/x/data v0.0.0-20211202162855-98bb2b15c314
+	github.com/regen-network/regen-ledger/x/ecocredit v1.0.0
+	github.com/regen-network/regen-ledger/x/group v1.0.0-beta1
 	github.com/rs/zerolog v1.23.0
 	github.com/spf13/cast v1.4.1
 	github.com/spf13/cobra v1.2.1
