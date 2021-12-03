@@ -1,4 +1,4 @@
-module github.com/MonikaCat/regen-ledger
+module github.com/MonikaCat/regen-ledger/v2
 
 go 1.17
 
