@@ -145,10 +145,10 @@ replace github.com/cosmos/cosmos-sdk => github.com/regen-network/cosmos-sdk v0.4
 
 replace github.com/regen-network/regen-ledger/types => github.com/MonikaCat/regen-ledger/types v1.0.0
 
-// replace github.com/regen-network/regen-ledger/orm => github.com/regen-network/regen-ledger/orm
+replace github.com/regen-network/regen-ledger/orm => github.com/MonikaCat/regen-ledger/orm v1.0.0-beta1
 
-// replace github.com/regen-network/regen-ledger/x/data => ./x/data
+replace github.com/regen-network/regen-ledger/x/data => github.com/MonikaCat/regen-ledger/x/data v0.0.0-20210602121340-fa967f821a6e
 
-// replace github.com/regen-network/regen-ledger/x/ecocredit => ./x/ecocredit
+replace github.com/regen-network/regen-ledger/x/ecocredit => github.com/MonikaCat/regen-ledger/x/ecocredit v1.0.0
 
-// replace github.com/regen-network/regen-ledger/x/group => ./x/group
+replace github.com/regen-network/regen-ledger/x/group => github.com/MonikaCat/regen-ledger/x/group v1.0.0-beta1
